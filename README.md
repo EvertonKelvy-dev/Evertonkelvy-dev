@@ -12,7 +12,7 @@
             src="https://custom-icon-badges.demolab.com/github/stars/Evertonkelvy-dev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/EvertonKelvy-dev">
+    <a href="https://github.com/EvertonKelvy-dev?tab=following">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
