@@ -3,7 +3,8 @@
 
 **`Dev em Formação`**
 
-💻 Meu nome é Everton, tenho 23 anos e sou de Rio Claro - SP . Atualmente cursando Análise e Desenvolvimento de Sistemas pela Cruzeiro do Sul, sou entusiasta de Front end,back end e Estou em transição de carreira para a área dev atualmente me especializando em busca da primeira vaga na minha carreira profissional como programador! Seja Bem Vindo(a)!
+💻 Meu nome é Everton, tenho 23 anos e sou de Rio Claro - SP . Atualmente cursando Análise e Desenvolvimento de Sistemas pela Cruzeiro do Sul, sou entusiasta de Front end,back end e Estou em transição de carreira para a área dev.
+Seja Bem Vindo(a)!
   
 <a href="https://github.com/Evertonkelvy-dev?tab=repositories&sort=stargazers">
         <img 
